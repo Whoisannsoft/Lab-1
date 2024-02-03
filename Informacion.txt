@@ -1,0 +1,4 @@
+Icesi-profile.txt: Archivo que contiene la siguiente información personal:
+a. NOMBRE: Ana Sofia
+b. APELLIDO: Gonzalez
+c. FECHA_DE_NACIMIENTO: 14-11-2005
